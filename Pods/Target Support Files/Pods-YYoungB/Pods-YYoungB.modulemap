@@ -1,0 +1,6 @@
+framework module Pods_YYoungB {
+  umbrella header "Pods-YYoungB-umbrella.h"
+
+  export *
+  module * { export * }
+}
